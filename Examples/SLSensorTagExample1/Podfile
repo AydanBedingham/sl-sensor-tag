@@ -1,0 +1,9 @@
+platform :ios, '10.0'
+
+target 'SLSensorTagExample1' do
+  use_frameworks!
+
+  # Pods for SLSensorTagExample1
+  pod 'SLSensorTag', :git => 'https://bitbucket.org/AydanBedingham/slsensortag.git'
+  
+end
