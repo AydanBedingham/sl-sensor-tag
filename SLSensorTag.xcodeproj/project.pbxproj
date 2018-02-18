@@ -11,6 +11,7 @@
 		C74E8889203993C700538FBB /* SLSensorTagCentralManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74E8886203993C600538FBB /* SLSensorTagCentralManager.swift */; };
 		C74E888A203993C700538FBB /* SLSensorTagCentralManagerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74E8887203993C600538FBB /* SLSensorTagCentralManagerHelper.swift */; };
 		C74E888B203993C700538FBB /* SLSensorTagPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74E8888203993C600538FBB /* SLSensorTagPeripheral.swift */; };
+		C7A54DD92039B3120017B6C2 /* SLPersistentSensorTagCentralManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A54DD82039B3120017B6C2 /* SLPersistentSensorTagCentralManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C74E8886203993C600538FBB /* SLSensorTagCentralManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SLSensorTagCentralManager.swift; path = Sources/SLSensorTagCentralManager.swift; sourceTree = SOURCE_ROOT; };
 		C74E8887203993C600538FBB /* SLSensorTagCentralManagerHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SLSensorTagCentralManagerHelper.swift; path = Sources/SLSensorTagCentralManagerHelper.swift; sourceTree = SOURCE_ROOT; };
 		C74E8888203993C600538FBB /* SLSensorTagPeripheral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SLSensorTagPeripheral.swift; path = Sources/SLSensorTagPeripheral.swift; sourceTree = SOURCE_ROOT; };
+		C7A54DD82039B3120017B6C2 /* SLPersistentSensorTagCentralManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLPersistentSensorTagCentralManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				C74E8886203993C600538FBB /* SLSensorTagCentralManager.swift */,
 				C74E8887203993C600538FBB /* SLSensorTagCentralManagerHelper.swift */,
 				C74E8888203993C600538FBB /* SLSensorTagPeripheral.swift */,
+				C7A54DD82039B3120017B6C2 /* SLPersistentSensorTagCentralManager.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				C74E888B203993C700538FBB /* SLSensorTagPeripheral.swift in Sources */,
 				C74E8889203993C700538FBB /* SLSensorTagCentralManager.swift in Sources */,
+				C7A54DD92039B3120017B6C2 /* SLPersistentSensorTagCentralManager.swift in Sources */,
 				C74E888A203993C700538FBB /* SLSensorTagCentralManagerHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
